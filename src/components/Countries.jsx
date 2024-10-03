@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import Country from "./Country";
 
-import Header from "./header";
+import Header from "./Header";
 import Footer from "./Footer";
 
 const Countries = () => {
